@@ -7,3 +7,4 @@ This repo contains the project from freecodecamp
 - [Build a survey form](https://codepen.io/Roshi93/pen/dyWYOWq)
 - [Build a product landing page](https://codepen.io/Roshi93/pen/MWmaQvb)
 - [Build a technincal documentation page](https://codepen.io/Roshi93/pen/vYmNoQW)
+- [Build a personal portfolio](https://codepen.io/Roshi93/pen/GRmoxWR)
