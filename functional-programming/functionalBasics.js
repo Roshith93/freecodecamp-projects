@@ -15,5 +15,7 @@ for (let i = 0; i < persons.length; i++) {
 }
 console.log(insects)
 
-let animals = persons.filter((el) => el.category === 'Animal')
+let isAnimal = (el) => el.category === 'Animal'
+let animals = persons.filter(isAnimal)
 console.log(animals)
+
